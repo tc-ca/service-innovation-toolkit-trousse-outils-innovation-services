@@ -13,3 +13,4 @@
 	* [Understanding Document Accessibility](https://de.ryerson.ca/wa/documents/)
 * [Web Accessibility by Google](https://www.udacity.com/course/web-accessibility--ud891)
 * [A11ycasts with Rob Dodson](https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g)
+* [The a11y project checklist](https://a11yproject.com/checklist/)
